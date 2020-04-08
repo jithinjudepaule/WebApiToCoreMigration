@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fsvW4Y6jL0Gxllg1WrYXidsJM1POvtjk2wZ/rOZtcLV1UyadW9YEBceQLQ2Obs+1kVaqtwQ+Pm1z4aoYHMu4/g==",
+  "success": true,
+  "projectFilePath": "D:\\Test_Data\\WebApiMigrationTest\\WebApiToCoreMigration\\SimpleWebApiCore\\SimpleWebApiCore.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\jpaul\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
